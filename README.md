@@ -46,7 +46,7 @@ Follow these steps to set up and run PACMAN on your server or local environment.
 1. **Clone the PACMAN repository**:
 
    ```bash
-   git clone https://github.com/nnisarggada/pacman
+   git clone https://github.com/hect1k/pacman
    cd pacman
    ```
 

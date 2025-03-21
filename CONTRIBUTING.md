@@ -82,7 +82,7 @@ To set up PACMAN for local development, follow these steps:
    Clone the PACMAN repository to your local machine:
 
    ```bash
-   git clone https://github.com/nnisarggada/pacman
+   git clone https://github.com/hect1k/pacman
    cd pacman
    ```
 

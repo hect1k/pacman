@@ -1,4 +1,4 @@
-module github.com/nnisarggada/pacman
+module github.com/hect1k/pacman
 
 go 1.23.2
 
