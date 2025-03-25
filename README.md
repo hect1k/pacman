@@ -2,6 +2,8 @@
 
 **PACMAN** is a free, open-source, web-based contact management app designed for individuals who value simplicity and privacy. PACMAN enables you to securely manage your contacts with essential features like contact creation, editing, deletion, and export to VCF format for easy sharing. The app uses browser-based **Basic Authentication** to protect access to your contact list.
 
+![PACMAN banner](https://nnisarg.in/images/projects/pacman.jpg)
+
 ---
 
 # Table of Contents
